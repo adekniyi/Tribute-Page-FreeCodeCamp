@@ -118,11 +118,7 @@ article p{
     figure{
         display: block;
         margin: auto;
-        width: 50%;
-    }
-    #img-dev{
-        margin: auto;
-        width: 100%;
+        width: 85%;
     }
     #img-dev #image{
         margin: auto;
